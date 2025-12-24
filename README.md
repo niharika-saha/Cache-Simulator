@@ -63,6 +63,6 @@ Cache-Simulator-GUI/
 ## Contributors:
 
 - [@nehanpnair](https://github.com/nehanpnair)
-- [@Niharika-Saha](https://github.com/Niharika-Saha) 
+- [@niharika-saha](https://github.com/niharika-saha) 
 - [@Niharika-Paul](https://github.com/Niharika-Paul)
 
